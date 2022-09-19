@@ -55,6 +55,7 @@
   border-radius: 40px;
 }
 .account {
+  margin-top: 60px;
   margin-left: 15px;
   display: flex;
   align-items: center;
